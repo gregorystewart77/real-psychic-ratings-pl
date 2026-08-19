@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pl.real-psychic-ratings.com/sitemap.xml
